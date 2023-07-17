@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title></title>
+        <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+        <script src="https://unpkg.com/aframe-event-set-component@4.2.1/dist/aframe-event-set-component.min.js"></script>
+    </head>
+  <body>
+    <a-scene>
+<a-assets>
+    <a-asset-item src="../colloseum/scene.gltf" id="col" ></a-asset-item>
+</a-assets>
+
+<a-entity id="colo" gltf-model="#col" position="0 0 0" ></a-entity>
+<a-camera position="0 -12 -4"></a-camera>
+    </a-scene>
+  </body>
+</html>

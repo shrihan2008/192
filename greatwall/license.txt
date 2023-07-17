@@ -1,0 +1,11 @@
+Model Information:
+* title:	Great Wall survey
+* source:	https://sketchfab.com/3d-models/great-wall-survey-eb94be2c56a14f009e6f0f2533c996d7
+* author:	DroneScan China (https://sketchfab.com/Scandinavian)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Great Wall survey" (https://sketchfab.com/3d-models/great-wall-survey-eb94be2c56a14f009e6f0f2533c996d7) by DroneScan China (https://sketchfab.com/Scandinavian) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

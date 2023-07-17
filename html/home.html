@@ -1,0 +1,40 @@
+<!DOCTYPE html> 
+<html>
+     <head>
+
+    <title>Facts</title> 
+    <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+
+<script src="https://unpkg.com/aframe-spe-particles-component@^1.0.4/dist/aframe-spe-particles-component.min.js">
+</script>
+</head>
+<body>
+    <a-scene>
+        
+       <a-sky color="green"></a-sky>
+       <a-camera position="-7 0 -20"></a-camera>
+        <a-entity position=" 0 0 -2"
+         spe-particles="
+         color:cyan,red,blue,orange;
+         distribution:sphere;
+         radius:0.2;
+         velocity-spread:25;
+         velocity:2;
+         randomize-velocity:true;
+         particle-count:10000;
+        active-multiplier:1000;
+        duration:-2;
+        max-age:1;
+        blending:additive;
+
+        ">
+
+</a-entity>  
+
+
+        </a-scene>
+
+    
+    </body> 
+    
+    </html>

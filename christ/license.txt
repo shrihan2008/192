@@ -1,0 +1,11 @@
+Model Information:
+* title:	Christ the redeemer, Rio de Janeiro
+* source:	https://sketchfab.com/3d-models/christ-the-redeemer-rio-de-janeiro-635854a864204f4389ec92b79921cf58
+* author:	Archéomatique (https://sketchfab.com/archeomatique)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Christ the redeemer, Rio de Janeiro" (https://sketchfab.com/3d-models/christ-the-redeemer-rio-de-janeiro-635854a864204f4389ec92b79921cf58) by Archéomatique (https://sketchfab.com/archeomatique) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

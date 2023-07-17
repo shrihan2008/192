@@ -1,0 +1,30 @@
+img{
+    height: 300px;
+    width: 300px;
+}
+
+h1{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-stretch: narrower;
+    color:blueviolet;
+    align-self: center;
+    justify-content: center;
+}
+h2{
+    size: 20px;
+    color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    size: 15px;
+    color: #2e3cb9;
+    font-weight: 600;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aquamarine;
+    font-weight: 400;
+}
